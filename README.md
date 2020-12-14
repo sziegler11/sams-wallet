@@ -1,0 +1,1 @@
+This will be a toy implementation of a wallet in bitcoin, mostly for learning purposes.

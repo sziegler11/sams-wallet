@@ -1,0 +1,6 @@
+.DS_Store
+
+# ignore python object files
+*.pyc
+*.pyo
+__pycache__/
